@@ -24,7 +24,7 @@ name: Ngọc Huyền (Quackii)
 education: Software Engineering @ UIT (VNU-HCM)
 focus: Frontend Development (React, TypeScript, Tailwind CSS) & UI/UX
 beyond_code: Sad playlists, iced matcha & spontaneous chaos
-motto: "Making the UI look pretty so nobody notices the console errors."
+motto: "If it works, don't touch it. If it breaks, blame the backend."
 ```
 
 ---
