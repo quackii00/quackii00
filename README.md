@@ -68,4 +68,12 @@ motto: "If it works, don't touch it. If it breaks, blame the backend."
     alt="Contribution Snake"
   />
 
+  <br />
+
+  <img
+    width="100%"
+    src="./assets/duck-parade.svg"
+    alt="Quack Quack Bye Bye Duck Parade"
+  />
+
 </div>
