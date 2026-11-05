@@ -52,7 +52,7 @@ motto: "If it works, don't touch it. If it breaks, blame the backend."
 <div align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=quackii00&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=D946EF&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=quackii00&theme=dark&hide_border=true&hide_total_contributions=true&background=0D1117&ring=00E5FF&fire=D946EF&currStreakLabel=00E5FF&sideLabels=E6EDF3&dates=8B949E"
     alt="GitHub Streak"
   />
 
