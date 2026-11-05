@@ -2,110 +2,65 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Quack+quack!+Hi%2C+I'm+Huy%E1%BB%81n+%F0%9F%A6%86;Software+Engineering+%40+UIT;A+little+duck+who+loves+coding+%E2%9C%A8;Powered+by+coffee%2C+music+%26+deadlines+%E2%98%95"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Nguy%E1%BB%85n+Th%E1%BB%8B+Ng%E1%BB%8Dc+Huy%E1%BB%81n;Software+Engineering+%40+UIT;Full-Stack+Development+%26+AI+Agents"
       alt="Typing SVG"
     />
   </a>
 
-  <br />
-
-  <img src="https://img.shields.io/badge/🦆_quackii00-UIT_(VNU--HCM)-FCD34D?style=for-the-badge&labelColor=1F2937" alt="quackii00" />
-  <img src="https://img.shields.io/badge/Mood-Chilling_&_Coding_🎧-93C5FD?style=for-the-badge&labelColor=1F2937" alt="Mood" />
+  <p>
+    <a href="mailto:hinduck3206@gmail.com"><img src="https://img.shields.io/badge/Email-hinduck3206%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+    <a href="https://github.com/quackii00"><img src="https://img.shields.io/badge/GitHub-quackii00-161B22?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
+    <img src="https://komarev.com/ghpvc/?username=quackii00&color=00E5FF&style=flat-square&label=Views" alt="Views" />
+  </p>
 
 </div>
 
 ---
 
-### 🦆 A Little About Me
+### About
 
 ```yaml
-name: "Nguyễn Thị Ngọc Huyền (Hin Duck)"
-school: "Software Engineering @ UIT"
-status: "Looking calm on the surface, paddling like crazy for deadlines underneath 🦆💨"
-
-what_i_do:
-  - 💻 Coding web apps, desktop tools & playing around with AI Agents
-  - 🎨 Making UIs look cute before worrying about the backend bugs
-
-off_the_keyboard:
-  - 🎧 Vibing to music 24/7
-  - ☕ Milk coffee enthusiast & professional napper
-  - 🎮 Gaming, wandering around & taking random photos
+name: Nguyễn Thị Ngọc Huyền
+education: Software Engineering @ UIT (VNU-HCM)
+focus: Full-Stack Web (Spring Boot, React) & AI Agents
+beyond_code: Music, milk coffee, photography & occasional gaming
+motto: "Calm on the surface, paddling fast underneath."
 ```
 
 ---
 
-### 🛠️ My Toolbox
+### Tech Stack
 
 <div align="center">
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,cs,ts,js,python,html,css&perline=7" alt="Languages" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,react,tailwind,postgresql,docker,git,figma&perline=8" alt="Tools & Frameworks" />
-  </p>
-
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,spring,dotnet,react,tailwind,postgresql,docker,git,figma&perline=12" alt="Tech Stack" />
 </div>
 
 ---
 
-### 🌱 Little Pond of Projects
+### Selected Projects
 
-<div align="center">
-
-| 🐣 Project | 💬 What it is | 🧩 Built with |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🧠 **AlgoLearner** | Web học code & chấm bài tự động (có mấy bé mascot siêu xinh) | `Spring Boot` · `React` · `PostgreSQL` |
-| 🏥 **[Clinic Management](https://github.com/quackii00/SE104---ClinicManagement)** | App quản lý phòng khám cứu cánh mùa đồ án SE104 | `C#` · `.NET` · `SQL Server` |
-| 🤖 **[Memory AI Agent](https://github.com/quackii00/BTH7_Challenge_A_persistent_memory)** | Nghịch ngợm làm AI Agent có "trí nhớ tốt" hơn mình | `Python` · `LLMs` |
-
-</div>
+| **AlgoLearner** | Online Judge & LMS platform with isolated code sandbox and automated grading | `Spring Boot` `React` `PostgreSQL` `Docker` |
+| **[Clinic Management](https://github.com/quackii00/SE104---ClinicManagement)** | Desktop system for patient records, scheduling, and billing workflows | `C#` `.NET` `SQL Server` |
+| **[Persistent Memory Agent](https://github.com/quackii00/BTH7_Challenge_A_persistent_memory)** | Autonomous AI Agent with long-term context retention | `Python` `LLMs` |
 
 ---
 
-### 🌆 3D Cyberpunk City & Snake Contributions
+### Contributions
 
 <div align="center">
 
   <img
     width="100%"
     src="https://raw.githubusercontent.com/quackii00/quackii00/output-3d-contrib/cyberpunk.svg"
-    alt="3D Cyberpunk Contribution City"
+    alt="3D Contribution Graph"
   />
-
-  <br /><br />
 
   <img
     width="100%"
     src="https://raw.githubusercontent.com/quackii00/quackii00/output/github-snake-dark.svg"
     alt="Contribution Snake"
   />
-
-</div>
-
----
-
-<div align="center">
-
-  ### 📫 Say "Quack" to me!
-
-  <a href="mailto:hinduck3206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/quackii00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br /><br />
-
-  <i>"Code chạy được là nhờ thực lực, còn chạy sai chắc chắn là do tính năng." 🦆✨</i>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=quackii00&color=F59E0B&style=flat-square&label=POND+VISITORS" alt="Visitors" />
 
 </div>
