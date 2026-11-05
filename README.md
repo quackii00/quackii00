@@ -32,7 +32,7 @@ motto: "Calm on the surface, paddling fast underneath."
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,spring,dotnet,react,tailwind,postgresql,docker,git,figma&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,spring,dotnet,react,unity,postgresql,supabase,docker,git&perline=12" alt="Tech Stack" />
 </div>
 
 ---
@@ -42,8 +42,8 @@ motto: "Calm on the surface, paddling fast underneath."
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **AlgoLearner** | Online Judge & LMS platform with isolated code sandbox and automated grading | `Spring Boot` `React` `PostgreSQL` `Docker` |
-| **[Clinic Management](https://github.com/quackii00/SE104---ClinicManagement)** | Desktop system for patient records, scheduling, and billing workflows | `C#` `.NET` `SQL Server` |
-| **[Persistent Memory Agent](https://github.com/quackii00/BTH7_Challenge_A_persistent_memory)** | Autonomous AI Agent with long-term context retention | `Python` `LLMs` |
+| **[EasyFlips](https://github.com/SyNguyen3107/EasyFlips)** | Anki-inspired flashcard & multiplayer study app with real-time lobby and cloud sync | `C#` `WPF (.NET 8)` `SQLite` `Supabase` |
+| **[2D Music Platformer](https://github.com/wvltunes/SE102-Group-3)** | Rhythm-based 2D platformer game with audio-synchronized mechanics | `Unity` `C#` |
 
 ---
 
