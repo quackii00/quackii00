@@ -2,7 +2,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Nguy%E1%BB%85n+Th%E1%BB%8B+Ng%E1%BB%8Dc+Huy%E1%BB%81n;Software+Engineering+%40+UIT;Full-Stack+Development+%26+AI+Agents"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Nguy%E1%BB%85n+Th%E1%BB%8B+Ng%E1%BB%8Dc+Huy%E1%BB%81n;Software+Engineering+%40+UIT;Frontend+Developer+%26+UI%2FUX+Enthusiast"
       alt="Typing SVG"
     />
   </a>
@@ -22,7 +22,7 @@
 ```yaml
 name: Nguyễn Thị Ngọc Huyền
 education: Software Engineering @ UIT (VNU-HCM)
-focus: Full-Stack Web (Spring Boot, React) & AI Agents
+focus: Frontend Development (React, TypeScript, Tailwind CSS) & UI/UX
 beyond_code: Music, milk coffee, photography & occasional gaming
 motto: "Calm on the surface, paddling fast underneath."
 ```
@@ -32,7 +32,7 @@ motto: "Calm on the surface, paddling fast underneath."
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,python,spring,dotnet,react,unity,postgresql,supabase,docker,git&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,html,css,figma,cs,dotnet,unity,git&perline=12" alt="Tech Stack" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ motto: "Calm on the surface, paddling fast underneath."
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **AlgoLearner** | Online Judge & LMS platform with isolated code sandbox and automated grading | `Spring Boot` `React` `PostgreSQL` `Docker` |
+| **AlgoLearner** | Online Judge & LMS platform with interactive code editor, custom UI mascots, and role-based dashboards | `React` `TypeScript` `Tailwind CSS` `Spring Boot` |
 | **[EasyFlips](https://github.com/SyNguyen3107/EasyFlips)** | Anki-inspired flashcard & multiplayer study app with real-time lobby and cloud sync | `C#` `WPF (.NET 8)` `SQLite` `Supabase` |
 | **[2D Music Platformer](https://github.com/wvltunes/SE102-Group-3)** | Rhythm-based 2D platformer game with audio-synchronized mechanics | `Unity` `C#` |
 
