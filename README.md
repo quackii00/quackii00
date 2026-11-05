@@ -2,7 +2,7 @@
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Nguy%E1%BB%85n+Th%E1%BB%8B+Ng%E1%BB%8Dc+Huy%E1%BB%81n;Software+Engineering+%40+UIT;Frontend+Developer+%26+UI%2FUX+Enthusiast"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Ng%E1%BB%8Dc+Huy%E1%BB%81n+(Quackii);Software+Engineering+%40+UIT;Frontend+Developer+%26+UI%2FUX+Enthusiast"
       alt="Typing SVG"
     />
   </a>
@@ -20,10 +20,10 @@
 ### About
 
 ```yaml
-name: Nguyễn Thị Ngọc Huyền
+name: Ngọc Huyền (Quackii)
 education: Software Engineering @ UIT (VNU-HCM)
 focus: Frontend Development (React, TypeScript, Tailwind CSS) & UI/UX
-beyond_code: Music, milk coffee, photography & occasional gaming
+beyond_code: Nhạc suy, matcha & doing something crazy
 motto: "Calm on the surface, paddling fast underneath."
 ```
 
