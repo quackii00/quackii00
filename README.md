@@ -64,11 +64,20 @@ off_the_keyboard:
 
 ---
 
-### 🐍 Contribution Graph
+### 🌆 3D Cyberpunk City & Snake Contributions
 
 <div align="center">
 
   <img
+    width="100%"
+    src="https://raw.githubusercontent.com/quackii00/quackii00/output-3d-contrib/cyberpunk.svg"
+    alt="3D Cyberpunk Contribution City"
+  />
+
+  <br /><br />
+
+  <img
+    width="100%"
     src="https://raw.githubusercontent.com/quackii00/quackii00/output/github-snake-dark.svg"
     alt="Contribution Snake"
   />
