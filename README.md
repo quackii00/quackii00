@@ -46,6 +46,7 @@ motto: "If it works, don't touch it. If it breaks, blame the backend."
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[BREATHE](https://github.com/MazeFlaze/BREATH-EarthJukebox)** ([Demo](https://breathe-frontend.blueforest-c6eaa715.eastasia.azurecontainerapps.io/)) | NASA Space Apps Challenge 2026 atmospheric data sonification platform with interactive 3D/2D Earth maps and real-time multi-stem audio studio | `Next.js` `TypeScript` `MapLibre GL` `Web Audio API` `FastAPI` |
 | **AlgoLearner** | Online Judge & LMS platform with interactive code editor, custom UI mascots, and role-based dashboards | `React` `TypeScript` `Tailwind CSS` `Spring Boot` |
 | **[EasyFlips](https://github.com/SyNguyen3107/EasyFlips)** | Anki-inspired flashcard & multiplayer study app with real-time lobby and cloud sync | `C#` `WPF (.NET 8)` `SQLite` `Supabase` |
 | **[2D Music Platformer](https://github.com/wvltunes/SE102-Group-3)** | Rhythm-based 2D platformer game with audio-synchronized mechanics | `Unity` `C#` |
